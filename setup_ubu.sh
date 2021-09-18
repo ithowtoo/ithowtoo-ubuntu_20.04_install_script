@@ -11,3 +11,10 @@ echo "Ubuntu up to date"
 echo "Installing PIP"
 sudo apt install -y python3-pip
 echo "PIP Installed"
+
+# Install GIT
+
+echo "Install git"
+sudo apt install -y git
+echo "Git Installed"
+
