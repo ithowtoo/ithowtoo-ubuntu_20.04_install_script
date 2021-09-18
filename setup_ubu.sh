@@ -6,5 +6,8 @@ echo "Updating Ubuntu"
 sudo apt update && sudo apt upgrade -y
 echo "Ubuntu up to date"
 
+# Install PIP
 
-
+echo "Installing PIP"
+sudo apt install -y python3-pip
+echo "PIP Installed"
