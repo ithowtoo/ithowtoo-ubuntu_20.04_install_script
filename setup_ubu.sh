@@ -43,7 +43,10 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 echo "Google Chrome Installed"
 
+# Installing Thunderbird
 
-
+echo "Installing Thunderbird"
+sudo apt install -y thunderbird
+echo "Thunderbird installed"
 
 
