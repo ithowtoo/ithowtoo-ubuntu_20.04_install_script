@@ -23,3 +23,10 @@ echo "Git Installed"
 echo "Installing Vim"
 sudo apt install -y vim
 echo "Vim Installed"
+
+# Install Keepass2
+
+echo "Installing Keepass2"
+sudo apt install -y keepass2
+echo "Keepass2 Installed"
+
