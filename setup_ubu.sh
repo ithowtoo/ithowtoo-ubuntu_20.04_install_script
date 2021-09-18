@@ -30,3 +30,8 @@ echo "Installing Keepass2"
 sudo apt install -y keepass2
 echo "Keepass2 Installed"
 
+# Installing Wget"
+
+echo "Installing wget"
+sudo apt install -y wget
+echo "Wget installed"
