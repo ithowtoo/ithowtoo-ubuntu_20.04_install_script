@@ -18,3 +18,8 @@ echo "Install git"
 sudo apt install -y git
 echo "Git Installed"
 
+# Install Vim
+
+echo "Installing Vim"
+sudo apt install -y vim
+echo "Vim Installed"
