@@ -27,4 +27,6 @@ ssh-add ~/.ssh/key_name
 
 ssh git@github.com
 
+# Setup SSH access on github (https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
 
