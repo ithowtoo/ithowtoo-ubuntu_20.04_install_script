@@ -49,4 +49,8 @@ echo "Installing Thunderbird"
 sudo apt install -y thunderbird
 echo "Thunderbird installed"
 
+# Installing Filezilla
+echo "Installing TFilezilla"
+sudo apt install filezilla
+echo "Filezilla installed"
 
