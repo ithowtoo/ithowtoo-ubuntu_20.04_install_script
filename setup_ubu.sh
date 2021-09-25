@@ -63,5 +63,5 @@ echo "Filezilla installed"
 # Install notepad++
 
 echo "Installing Notepad++"
-sudo snap install -y notepad-plus-plus
+sudo snap install notepad-plus-plus
 echo "Notepad++ installed"
