@@ -6,6 +6,12 @@ echo "Updating Ubuntu"
 sudo apt update && sudo apt upgrade -y
 echo "Ubuntu up to date"
 
+# Install Openvpn
+
+echo "Installing OpenVPN"
+sudo apt install -y openvpn
+echo "OpenVPN Installed"
+
 # Install PIP
 
 echo "Installing PIP"
