@@ -56,7 +56,12 @@ sudo apt install -y thunderbird
 echo "Thunderbird installed"
 
 # Installing Filezilla
-echo "Installing TFilezilla"
+echo "Installing Filezilla"
 sudo apt install -y filezilla
 echo "Filezilla installed"
 
+# Install notepad++
+
+echo "Installing Notepad++"
+sudo snap install -y notepad-plus-plus
+echo "Notepad++ installed"
