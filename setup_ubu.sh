@@ -51,6 +51,6 @@ echo "Thunderbird installed"
 
 # Installing Filezilla
 echo "Installing TFilezilla"
-sudo apt install filezilla
+sudo apt install -y filezilla
 echo "Filezilla installed"
 
